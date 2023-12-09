@@ -1,17 +1,14 @@
-# STUDENT
-<br/>
-<br/>
-
-## EDUCATION
-### Tampere University
-#### Major: 
+# EDUCATION
+## Tampere University
+### Major: 
 Industrial Engineering and Management
-#### Minors:
+### Minors:
 * Software Engineering
 * Data Technologies
 * Machine Learning and Signal Processing
+<br/>
 
-## KEY SKILLS
+# KEY SKILLS
 * Python for Data Science
 * SQL
 * C++
