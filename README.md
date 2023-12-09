@@ -7,6 +7,7 @@ Industrial Engineering and Management
 * Data Technologies
 * Machine Learning and Signal Processing
 <br/>
+<br/>
 
 # KEY SKILLS
 * Python for Data Science
