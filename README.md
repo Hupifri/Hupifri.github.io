@@ -1,5 +1,3 @@
-![Logo](/assets/images/omakuva.png)
-[View my LinkedIn Profile](https://www.linkedin.com/in/hugohuotari)
 # STUDENT
 
 
