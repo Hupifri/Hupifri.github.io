@@ -1,3 +1,12 @@
+# KEY SKILLS
+* Python for Data Science
+* SQL
+* C++
+* R
+* PowerBI
+
+<br/>
+
 # EDUCATION
 ## Tampere University
 ### Major: 
@@ -7,12 +16,3 @@
 * Software Engineering
 * Data Technologies
 * Machine Learning and Signal Processing
-<br/>
-<br/>
-
-# KEY SKILLS
-* Python for Data Science
-* SQL
-* C++
-* R
-PowerBI
