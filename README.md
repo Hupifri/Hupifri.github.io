@@ -1,7 +1,7 @@
 # EDUCATION
 ## Tampere University
 ### Major: 
-Industrial Engineering and Management
+* Industrial Engineering and Management
 ### Minors:
 * Software Engineering
 * Data Technologies
