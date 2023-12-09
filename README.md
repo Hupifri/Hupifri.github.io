@@ -1,8 +1,6 @@
 # STUDENT
-
-
-
-
+<br/>
+<br/>
 ## EDUCATION
 ### Tampere University
 #### Major: 
