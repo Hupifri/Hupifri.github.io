@@ -1,18 +1,6 @@
-# KEY SKILLS
-* Python for Data Science
-* SQL
-* C++
-* R
-* PowerBI
+# PowerBI Showcase
+## Tampereen Liikenneonnettomuudet 20200
+![sivu1](Tampere1.png)
+![sivu2](Tampere2.png)
 
 <br/>
-
-# EDUCATION
-## Tampere University
-### Major
-* Industrial Engineering and Management
-
-### Minors
-* Software Engineering
-* Data Technologies
-* Machine Learning and Signal Processing
