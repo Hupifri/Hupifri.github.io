@@ -1,3 +1,4 @@
 title: Hugo Huotari
-logo: \assets\images\omakuva.png
+logo: /assets/images/omakuva.png
 theme: jekyll-theme-minimal
+description: "<a href='https://www.linkedin.com/in/hugohuotari'>View my LinkedIn Profile</a>"
