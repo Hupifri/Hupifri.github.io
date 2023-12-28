@@ -4,3 +4,5 @@
 ![sivu2](/assets/images/Tampere2.png)
 
 <br/>
+
+Copyright
