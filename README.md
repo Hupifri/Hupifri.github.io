@@ -3,7 +3,7 @@
 ![sivu1](/assets/images/Tampere1.png)
 ![sivu2](/assets/images/Tampere2.png)
 <br/>
-Tässä projektissa tein PowerBI-visualisoinntin vuoden 2022 liikenneonnettomuuksista Tampereen alueella. Aluksi käsittelin aineistoa Pythonilla, jonka jälkeen syötin aineiston koordinaatit maanmittauslaitoksen paikkatietoikkunan koordinaattimuuntimeen, jolloin koordinaatit näkyvät oikein PowerBI:n karttavisualisoinnissa. <br/>
+Tässä projektissa tein PowerBI-visualisoinntin vuoden 2022 liikenneonnettomuuksista Tampereen alueella. Aluksi käsittelin aineistoa Pythonilla, jonka jälkeen syötin aineiston koordinaatit maanmittauslaitoksen paikkatietoikkunan koordinaattimuuntimeen, jolloin koordinaatit näkyvät oikein PowerBI:n karttavisualisoinnissa. Lisäksi hyödynsin DAX-ohjelmointikieltä joidenkin visualisointien toteuttamiseen. <br/>
 Raportin estetiikan toteutin powerpointtia hyödyntämällä, ja käytin visualisoinnissa mahdollisimman paljon Tampereen kaupungin brändin mukaisia värejä. Pyrin raportin toteutuksessa "sovellusmaisuuteen", jossa klikkailemalla kuvakkeita pystyy siirtymään eri näkymien välillä. <br/>
 Suurimmat opit projektissa olivat PowerBI:n ja Pandas:n (python) perusteiden kertaaminen sekä koordinaattimuunnosten tekeminen.
 <br/>
